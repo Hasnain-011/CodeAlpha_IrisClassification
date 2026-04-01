@@ -80,16 +80,22 @@ CodeAlpha_IrisClassification/
 
 **Hasnain Ali**
 ## 📸 Output Screenshot
+
 ## Load Dataset
 <img width="1624" height="473" alt="image" src="https://github.com/user-attachments/assets/e5c604a3-fbc1-41fe-89e5-0672b383410a" />
+
 ## Clean Dataset
 <img width="382" height="85" alt="image" src="https://github.com/user-attachments/assets/f1a4a213-15a4-46f4-a2a2-4844682d7382" />
+
 ## Visualization
 <img width="1137" height="986" alt="image" src="https://github.com/user-attachments/assets/de0ff21f-2684-4898-aaba-5663413c58e9" />
+
 ## Accuracy
 <img width="644" height="226" alt="image" src="https://github.com/user-attachments/assets/37fa8889-cb85-415b-8afd-23d634764362" />
+
 ## Classification Report
 <img width="772" height="487" alt="image" src="https://github.com/user-attachments/assets/dc6b1a1c-4c06-4cdb-84fd-5e03731fb852" />
+
 ## Confusion Matrix
 <img width="806" height="830" alt="image" src="https://github.com/user-attachments/assets/bee891ef-141c-4aac-9d9a-4f70acab7dc0" />
 
